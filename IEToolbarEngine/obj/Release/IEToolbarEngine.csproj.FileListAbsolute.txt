@@ -1,0 +1,10 @@
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\bin\Release\IEToolbar.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\bin\Release\Interop.SHDocVw.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\Interop.SHDocVw.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbarEngine.csproj.ResolveComReference.cache
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\BandObjectLib.BandObject.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbarEngine.IEToolbarEngine.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbarEngine.IEToolbarInstaller.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbarEngine.Properties.Resources.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbarEngine.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Release\IEToolbar.dll

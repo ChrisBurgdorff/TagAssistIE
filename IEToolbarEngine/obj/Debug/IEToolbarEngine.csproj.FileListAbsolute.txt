@@ -1,0 +1,13 @@
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\bin\Debug\IEToolbar.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\bin\Debug\IEToolbar.pdb
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\bin\Debug\Interop.SHDocVw.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.csprojResolveAssemblyReference.cache
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\Interop.SHDocVw.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.csproj.ResolveComReference.cache
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\BandObjectLib.BandObject.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.IEToolbarEngine.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.IEToolbarInstaller.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.Properties.Resources.resources
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbarEngine.csproj.GenerateResource.Cache
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbar.dll
+C:\Users\Chris\Desktop\IE Test 4\IEToolbarEngine\obj\Debug\IEToolbar.pdb
